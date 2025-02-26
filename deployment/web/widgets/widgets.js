@@ -1,0 +1,1 @@
+define(["CSVasTable/widget/CSVasTable", "JSON/widget/Editor"], {});
