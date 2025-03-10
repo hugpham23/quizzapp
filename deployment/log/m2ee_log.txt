@@ -5,7 +5,5 @@ Evicted E:\quizapp-mx-course-master\deployment\model\lib\userlib\owasp-java-html
 Evicted E:\quizapp-mx-course-master\deployment\model\lib\userlib\checker-qual-3.8.0.jar by E:\quizapp-mx-course-master\deployment\model\lib\userlib\checker-qual-3.33.0.jar.
 Evicted E:\quizapp-mx-course-master\deployment\model\lib\userlib\commons-io-2.8.0.jar by E:\quizapp-mx-course-master\deployment\model\lib\userlib\commons-io-2.11.0.jar.
 Evicted E:\quizapp-mx-course-master\deployment\model\lib\userlib\j2objc-annotations-1.3.jar by E:\quizapp-mx-course-master\deployment\model\lib\userlib\j2objc-annotations-2.8.jar.
-2025-02-21 14:48:03.892 INFO - M2EE: Added admin request handler '/prometheus' with servlet class 'com.mendix.metrics.prometheus.PrometheusServlet'
-[rtlauncher:container$] INFO Container start took 4481. Ready to accept admin requests.
-
-
+2025-03-10 10:51:34.962 INFO - M2EE: Added admin request handler '/prometheus' with servlet class 'com.mendix.metrics.prometheus.PrometheusServlet'
+[rtlauncher:container$] INFO Container start took 4710. Ready to accept admin requests.

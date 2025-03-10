@@ -1,8 +1,8 @@
 Initialized native services in: C:\Users\kunph\.gradle\native
 Initialized jansi services in: C:\Users\kunph\.gradle\native
 Received JVM installation metadata from 'C:\Program Files\Eclipse Adoptium\jdk-11.0.16.101-hotspot': {JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-11.0.16.101-hotspot, JAVA_VERSION=11.0.16.1, JAVA_VENDOR=Eclipse Adoptium, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=11.0.16.1+1, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=11.0.16.1+1, VM_VENDOR=Eclipse Adoptium, OS_ARCH=amd64}
-The client will now receive all logging from the daemon (pid: 18328). The daemon log file: C:\Users\kunph\.gradle\daemon\7.6\daemon-18328.out.log
-Starting 2nd build in daemon [uptime: 18.499 secs, performance: 100%, non-heap usage: 16% of 256 MiB]
+The client will now receive all logging from the daemon (pid: 6284). The daemon log file: C:\Users\kunph\.gradle\daemon\7.6\daemon-6284.out.log
+Starting 4th build in daemon [uptime: 54 mins 47.649 secs, performance: 100%, non-heap usage: 17% of 256 MiB]
 Using 8 worker leases.
 Now considering [E:\quizapp-mx-course-master\deployment] as hierarchies to watch
 Watching the file system is configured to be enabled if available
@@ -11,6 +11,7 @@ Starting Build
 Settings evaluated using settings file 'E:\quizapp-mx-course-master\deployment\settings.gradle'.
 Projects loaded. Root project using build file 'E:\quizapp-mx-course-master\deployment\build.gradle'.
 Included projects: [root project 'deployment']
+Invalidating in-memory cache of C:\Users\kunph\.gradle\caches\journal-1\file-access.bin
 
 > Configure project :
 Evaluating root project 'deployment' using build file 'E:\quizapp-mx-course-master\deployment\build.gradle'.
@@ -67,10 +68,10 @@ Skipping task ':deploy' as it has no actions.
 BUILD SUCCESSFUL in 2s
 4 actionable tasks: 1 executed, 3 up-to-date
 Watched directory hierarchies: [E:\quizapp-mx-course-master\deployment]
-VCS Checkout Cache (E:\quizapp-mx-course-master\deployment\.gradle\vcs-1) removing files not accessed on or after Fri Feb 14 14:47:11 ICT 2025.
+VCS Checkout Cache (E:\quizapp-mx-course-master\deployment\.gradle\vcs-1) removing files not accessed on or after Mon Mar 03 10:50:52 ICT 2025.
 VCS Checkout Cache (E:\quizapp-mx-course-master\deployment\.gradle\vcs-1) cleanup deleted 0 files/directories.
 VCS Checkout Cache (E:\quizapp-mx-course-master\deployment\.gradle\vcs-1) cleaned up in 0.0 secs.
-dependencies-accessors (E:\quizapp-mx-course-master\deployment\.gradle\7.6\dependencies-accessors) removing files not accessed on or after Fri Feb 14 14:47:11 ICT 2025.
+dependencies-accessors (E:\quizapp-mx-course-master\deployment\.gradle\7.6\dependencies-accessors) removing files not accessed on or after Mon Mar 03 10:50:52 ICT 2025.
 dependencies-accessors (E:\quizapp-mx-course-master\deployment\.gradle\7.6\dependencies-accessors) cleanup deleted 0 files/directories.
 dependencies-accessors (E:\quizapp-mx-course-master\deployment\.gradle\7.6\dependencies-accessors) cleaned up in 0.0 secs.
 
